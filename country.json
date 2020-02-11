@@ -9819,7 +9819,7 @@
           "arcs": [[[88]], [[89]], [[90]]],
           "type": "MultiPolygon",
           "properties": {
-            "name": "The Bahamas",
+            "name": "Bahamas",
             "Alpha-2": "BS"
           },
           "id": "BHS"
@@ -10558,7 +10558,7 @@
           "arcs": [[425, 426]],
           "type": "Polygon",
           "properties": {
-            "name": "South Korea",
+            "name": "Korea, dem. people's republic of",
             "Alpha-2": "KR"
           },
           "id": "KOR"
@@ -10621,7 +10621,7 @@
           "arcs": [[444]],
           "type": "Polygon",
           "properties": {
-            "name": "Sri Lanka",
+            "name": "Sri lanka",
             "Alpha-2": "LK"
           },
           "id": "LKA"
@@ -11071,7 +11071,7 @@
           "arcs": [[570, -289, -418, 571, -225, -145, 572, -566]],
           "type": "Polygon",
           "properties": {
-            "name": "South Sudan",
+            "name": "South sudan",
             "Alpha-2": null
           },
           "id": "SSD"
@@ -11188,7 +11188,7 @@
           "arcs": [[-403, -397, -437, 594, 595, -389]],
           "type": "Polygon",
           "properties": {
-            "name": "Syria",
+            "name": "Syrian arab republic",
             "Alpha-2": "SY"
           },
           "id": "SYR"
@@ -11251,7 +11251,7 @@
           "arcs": [[603]],
           "type": "Polygon",
           "properties": {
-            "name": "Trinidad and Tobago",
+            "name": "Trinidad and tobago",
             "Alpha-2": "TT"
           },
           "id": "TTO"
@@ -11278,7 +11278,7 @@
           "arcs": [[607]],
           "type": "Polygon",
           "properties": {
-            "name": "Taiwan",
+            "name": "Taiwan province of china",
             "Alpha-2": "TW"
           },
           "id": "TWN"
@@ -11397,7 +11397,7 @@
           "arcs": [[-492, -138, 629, -477, -594, -475, 630, 631], [-446]],
           "type": "Polygon",
           "properties": {
-            "name": "South Africa",
+            "name": "South africa",
             "Alpha-2": "ZA"
           },
           "id": "ZAF"
