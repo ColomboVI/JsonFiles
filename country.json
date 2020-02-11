@@ -10918,7 +10918,7 @@
           "arcs": [[[522]], [[523]], [[-367, 524]], [[525]]],
           "type": "MultiPolygon",
           "properties": {
-            "name": "Papua New Guinea",
+            "name": "Papua new guinea",
             "Alpha-2": "PG"
           },
           "id": "PNG"
