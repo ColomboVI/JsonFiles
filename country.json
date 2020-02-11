@@ -10355,7 +10355,7 @@
           "arcs": [[336, 337, 338, -131]],
           "type": "Polygon",
           "properties": {
-            "name": "French Guiana",
+            "name": "French guiana",
             "Alpha-2": "GF"
           },
           "id": "GUF"
