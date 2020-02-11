@@ -10112,7 +10112,7 @@
           "arcs": [[-53, 242, 243, 244]],
           "type": "Polygon",
           "properties": {
-            "name": "Czech Republic",
+            "name": "Czech republic",
             "Alpha-2": "CZ"
           },
           "id": "CZE"
