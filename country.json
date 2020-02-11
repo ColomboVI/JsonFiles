@@ -10058,7 +10058,7 @@
           "arcs": [[-12, 226, 227, -218, -147, -224]],
           "type": "Polygon",
           "properties": {
-            "name": "Republic of the Congo",
+            "name": "Congo",
             "Alpha-2": "CG"
           },
           "id": "COG"
@@ -11026,7 +11026,7 @@
           ],
           "type": "MultiPolygon",
           "properties": {
-            "name": "Russian Federation",
+            "name": "Russian federation",
             "Alpha-2": "RU"
           },
           "id": "RUS"
@@ -11053,7 +11053,7 @@
           "arcs": [[561, -404, -387, -432, 562, -537, 563, -23, -509, 564]],
           "type": "Polygon",
           "properties": {
-            "name": "Saudi Arabia",
+            "name": "Saudi arabia",
             "Alpha-2": "SA"
           },
           "id": "SAU"
@@ -11089,7 +11089,7 @@
           "arcs": [[[575]], [[576]], [[577]], [[578]], [[579]]],
           "type": "MultiPolygon",
           "properties": {
-            "name": "Solomon Islands",
+            "name": "Solomon islands",
             "Alpha-2": "SB"
           },
           "id": "SLB"
@@ -11098,7 +11098,7 @@
           "arcs": [[580, -317, -439]],
           "type": "Polygon",
           "properties": {
-            "name": "Sierra Leone",
+            "name": "Sierra leone",
             "Alpha-2": "SL"
           },
           "id": "SLE"
@@ -11134,7 +11134,7 @@
           "arcs": [[-88, -462, -429, -471, -92, -347, -356, -541]],
           "type": "Polygon",
           "properties": {
-            "name": "Republic of Serbia",
+            "name": "Serbia",
             "Alpha-2": "RS"
           },
           "id": "SRB"
