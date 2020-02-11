@@ -10801,7 +10801,7 @@
           "arcs": [[492]],
           "type": "Polygon",
           "properties": {
-            "name": "New Caledonia",
+            "name": "New caledonia",
             "Alpha-2": "NC"
           },
           "id": "NCL"
@@ -10864,7 +10864,7 @@
           "arcs": [[[505]], [[506]]],
           "type": "MultiPolygon",
           "properties": {
-            "name": "New Zealand",
+            "name": "New zealand",
             "Alpha-2": "NZ"
           },
           "id": "NZL"
