@@ -9792,7 +9792,7 @@
           "arcs": [[74, 75, 76, -72, 77, 78]],
           "type": "Polygon",
           "properties": {
-            "name": "Burkina Faso",
+            "name": "Burkina faso",
             "Alpha-2": "BF"
           },
           "id": "BFA"
