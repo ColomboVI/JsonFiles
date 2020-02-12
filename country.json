@@ -10076,7 +10076,7 @@
           "arcs": [[234, 235, 236, 237]],
           "type": "Polygon",
           "properties": {
-            "name": "Costa Rica",
+            "name": "Costa rica",
             "Alpha-2": "CR"
           },
           "id": "CRI"
@@ -11107,7 +11107,7 @@
           "arcs": [[581, -336, -344]],
           "type": "Polygon",
           "properties": {
-            "name": "El Salvador",
+            "name": "El salvador",
             "Alpha-2": "SV"
           },
           "id": "SLV"
