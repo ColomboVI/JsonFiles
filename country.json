@@ -10265,7 +10265,7 @@
           "arcs": [[[306, 307]], [[308, 309]]],
           "type": "MultiPolygon",
           "properties": {
-            "name": "United kingdom/ireland",
+            "name": "United kingdom",
             "Alpha-2": "GB"
           },
           "id": "GBR"
